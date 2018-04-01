@@ -1,0 +1,11 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "scripts": {
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
